@@ -1,0 +1,54 @@
+[
+    {
+      "question": "What is the difference between `let`, `var`, and `const` in JavaScript?",
+      "answer": "`var` is function-scoped and can be redeclared, `let` is block-scoped and can be reassigned but not redeclared, `const` is block-scoped and cannot be reassigned or redeclared.",
+      "level": "easy"
+    },
+    {
+      "question": "What is a closure in JavaScript?",
+      "answer": "A closure is a function that has access to the parent scope, even after the parent function has closed.",
+      "level": "medium"
+    },
+    {
+      "question": "Explain the concept of hoisting in JavaScript.",
+      "answer": "Hoisting is JavaScript's default behavior of moving declarations (functions and variables) to the top of the current scope before execution.",
+      "level": "medium"
+    },
+    {
+      "question": "What is the purpose of the `useState` hook in React?",
+      "answer": "The `useState` hook is used to add state to a functional component in React.",
+      "level": "easy",
+      "img": "../src/assets/react.svg"
+    },
+    {
+      "question": "What is the difference between synchronous and asynchronous programming?",
+      "answer": "Synchronous programming executes tasks sequentially, one after another, while asynchronous programming allows multiple tasks to run concurrently, with some tasks potentially completing at a later time.",
+      "level": "medium"
+    },
+    {
+      "question": "What is the Time Complexity of binary search?",
+      "answer": "The time complexity of binary search is O(log n).",
+      "level": "easy"
+    },
+    {
+      "question": "Explain the concept of event delegation in JavaScript.",
+      "answer": "Event delegation is a technique in which a single event listener is added to a parent element, which manages all events triggered by its child elements using event bubbling.",
+      "level": "medium"
+    },
+    {
+      "question": "What is the difference between `==` and `===` in JavaScript?",
+      "answer": "`==` checks for equality after performing type coercion, whereas `===` checks for both equality and type without coercion.",
+      "level": "easy"
+    },
+    {
+      "question": "Explain the difference between `null` and `undefined` in JavaScript.",
+      "answer": "`undefined` means a variable has been declared but has not yet been assigned a value. `null` is an assignment value that represents no value.",
+      "level": "medium"
+    },
+    {
+      "question": "What is the purpose of memoization in programming?",
+      "answer": "Memoization is an optimization technique that stores the results of expensive function calls and returns the cached result when the same inputs occur again.",
+      "level": "hard"
+    }
+  ]
+  
