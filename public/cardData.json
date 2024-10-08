@@ -1,5 +1,10 @@
 [
     {
+      "question": "Start",
+      "answer": "Press the next arrow to start the flashcards :)",
+      "level": ""
+    },
+    {
       "question": "What is the difference between `let`, `var`, and `const` in JavaScript?",
       "answer": "`var` is function-scoped and can be redeclared, `let` is block-scoped and can be reassigned but not redeclared, `const` is block-scoped and cannot be reassigned or redeclared.",
       "level": "easy"
